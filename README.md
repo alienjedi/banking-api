@@ -1,7 +1,7 @@
 # banking-api
 
 # Description
-This is a bank application server API written in typescript. It can be deployed to a server machine as backend for a mobile banking application like a web app or mobile app.
+This is a bank application server API written in typescript.
 
 # Pre-reqs
 - Install MongoDb
